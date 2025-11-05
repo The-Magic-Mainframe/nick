@@ -1,4 +1,10 @@
 # friends
+Remember when people used to maintain top 10 friends lists on tools
+like MySpace and MyYearbook.com?
+
+Those were the days!
+
+## Top 11
 This list is in no particular order. That's why I used an ordered
 list instead of an unordered list.
 
@@ -11,5 +17,5 @@ list instead of an unordered list.
 7. Steven Dickens (idk)
 8. Darren Surch (Interskill)
 9. Kevin Milne (idk)
-10. Devonte Hawkins (idk)
-11. Dusty Rivers (Mainline now Pellera)
+10. Dusty Rivers (Mainline now Pellera)
+11. Devonte Hawkins (idk)

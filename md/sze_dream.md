@@ -1,3 +1,4 @@
+# I Had a Dream, Once...
 I had a nightmare last night about the System Z Enthusiasts (SZE)
 Discord server. It's further evidence that SZE and members of the 
 System Z community live rent-free in my head.
@@ -44,5 +45,4 @@ than a recreational pastime.
 
 "Diversity of thought," my ass. Cancel culture for the win.
 
-Join the SZE community today. You'll never, ever, regret it.
-[](https://discord.com/invite/sze)
+[Join the SZE community today](https://discord.com/invite/sze). You'll never, ever, regret it.
