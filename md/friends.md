@@ -1,10 +1,10 @@
 # friends
 Remember when people used to maintain top 10 friends lists on tools
-like MySpace and MyYearbook.com?
+like MySpace and MyYearbook.com? Those were the days!
 
-Those were the days!
+Linkedin is Facebook 2.
 
-## Top 11
+## Top 12
 This list is in no particular order. That's why I used an ordered
 list instead of an unordered list.
 
@@ -19,3 +19,5 @@ list instead of an unordered list.
 9. Kevin Milne (idk)
 10. Dusty Rivers (Mainline now Pellera)
 11. Devonte Hawkins (idk)
+12. Geoffrey Decker (NIU)
+13. Victor Taiwo (Zcrafter)
