@@ -1,3 +1,4 @@
+# About Me
 Hi. My name is Nick Becker. I'm a computer programmer hailing from a small town in northwest Iowa, a state in the central United States.
 
 I got into programming during grade school when I learned how to program my TI-84 graphing calculator. My first programming language was TI-BASIC, and I would write small programs on my calculator to help automate my math assignments. My teacher, Mr. Wingert, was supportive of my interest in programming. I consider him to be one of my earliest mentors in the world of computer science.
